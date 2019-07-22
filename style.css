@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+.search-results {
+    max-width: 1000px;
+    margin: 30px auto;
+}
+
+h1{
+    margin-left: 30%;
+}
+
+.displayParks {
+    border: solid 1px;
+    margin: 40px;
+}
+
+label, h2 {
+    margin-left: 30%;
+}
+
+
+h2 {
+    margin-left: 40%;
+}
